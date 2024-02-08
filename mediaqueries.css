@@ -166,9 +166,28 @@
   } */
 }
 
+
 @media (max-width: 566px) {
 
   .about-containers {
     flex-direction: column;
   }
+
+  #experience {
+    margin-bottom: 3rem;
+  }
+
+  #about {
+    margin-top: -5rem;
+  }
+
+  #about-me-title {
+    margin-bottom: -3rem;
+  }
 }
+
+/* @media (max-width: 410px) {
+  #about {
+    margin-top: -5rem;
+  }
+} */
