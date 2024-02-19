@@ -161,6 +161,10 @@
     padding: 1rem;
   }
 
+  #work-history-container {
+    width: 80%
+  }
+
   /* .about-containers {
     flex-direction: column;
   } */
